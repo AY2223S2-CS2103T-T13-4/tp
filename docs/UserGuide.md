@@ -167,7 +167,7 @@ A bookmark can have any number of tags (including 0)
 
 Examples:
 * `add n/Hobbit a/J. R. R. Tolkien p/1 ~ 256 r/4 g/Fantasy`
-* `add n/The Odyssey a/Homer p/1 1 23 g/Action r/5 t/Literature`
+* `'add n/The Odyssey a/Homer p/1 1 23 g/Action r/5 t/Literature'`
 
 ### Listing all bookmarks/ Resetting filters : `list`
 
